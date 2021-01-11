@@ -26,8 +26,8 @@ pip install pyinstaller
    d. After a while your program is compiled in "dist" folder
 4. Done.
 
-## How to...
-![](https://i.imgur.com/VAwgh4n.gif)
+## How to convert to .EXE
+![](https://i.imgur.com/6tx5tUK.gif)
 
 ## Legal Notice
 This is illegal if you use this without the consent of the owners (in this case, the Discord team). I am not accountable for anything you get into. This is 100% educational, please do not misuse this tool.
