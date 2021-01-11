@@ -20,12 +20,18 @@ pip install pyinstaller
 2. Replace "webhook-url-here" with your webhooks url, make sure its discord.com instead of discordapp.com.
 3. (Optional) Compile the file into a exe, dont know how? https://www.youtube.com/watch?v=UZX5kH72Yx4.
 
- If you aren't able to watch the toturial do the following steps
-   a. Open CMD,powerShell or Terminal
-   b. Navigate to the "main.py" directory in consoles
-   c. Type "pyinstaller --onefile -w main.py" and press Enter
-   d. After a while your program is compiled in "dist" folder
+ If you aren't able to watch the toturial do the following steps:
+   
+   a. Open CMD,powerShell or Terminal.
+   
+   b. Navigate to the "main.py" directory in consoles.
+   
+   c. Type "pyinstaller --onefile -w main.py" and press Enter.
+   
+   d. After a while your program is compiled in "dist" folder.
+
 4. Done.
+
 
 ## How to convert to .EXE
 ![](https://i.imgur.com/6tx5tUK.gif)
